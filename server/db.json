@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "8Kwv66yiiYM"
+    },
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "7AOkz-JnRbI"
+    },
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "lw1zJBLr6pI"
+    },
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "VKaC_uUUvTE"
+    },
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "I8uEu941dCk"
+    },
+    {
+      "title": "New Todo",
+      "completed": false,
+      "userId": 1,
+      "id": "uMbR5cTxQ8s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
